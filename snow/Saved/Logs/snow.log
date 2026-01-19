@@ -1351,3 +1351,437 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2026.01.19-17.16.22:898][592]LogGeometry: Error: ApplyMeshMorphology: Morphology operation output an empty mesh [Called from: /Game/snow/bp_geomatry.bp_geomatry_C.ExecuteUbergraph_bp_geomatry]
 [2026.01.19-17.16.35:790][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
 [2026.01.19-17.16.35:817][323]LogGeometry: Error: ApplyMeshMorphology: Morphology operation output an empty mesh [Called from: /Game/snow/bp_geomatry.bp_geomatry_C.ExecuteUbergraph_bp_geomatry]
+[2026.01.19-17.20.01:485][164]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 968.142151
+[2026.01.19-17.20.01:619][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-17.20.01:619][172]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 968.258972, Update Interval: 323.980225
+[2026.01.19-17.25.34:996][174]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1301.656860
+[2026.01.19-17.25.35:147][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-17.25.35:147][184]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1301.788696, Update Interval: 332.498535
+[2026.01.19-17.31.39:193][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1665.860107
+[2026.01.19-17.31.39:343][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.19-17.31.39:343][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1665.993652, Update Interval: 320.927765
+[2026.01.19-17.32.45:923][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.01.19-17.32.46:034][869]LogGeometry: Error: ApplyMeshMorphology: Morphology operation output an empty mesh [Called from: /Game/snow/bp_geomatry.bp_geomatry_C.ExecuteUbergraph_bp_geomatry]
+[2026.01.19-17.32.50:567][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.01.19-17.32.52:965][133]LogSlate: Window 'Save Content' being destroyed
+[2026.01.19-17.32.52:981][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.19-17.32.55:879][133]LogSlate: Window 'Message' being destroyed
+[2026.01.19-17.32.55:889][133]Message dialog closed, result: Yes, title: Message, text: Untitled already exists. Do you want to replace it?
+[2026.01.19-17.32.55:889][133]LogSlate: Window 'Save Level As' being destroyed
+[2026.01.19-17.32.55:918][133]SourceControl: Revision control is disabled
+[2026.01.19-17.32.56:089][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.19-17.32.56:149][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.19-17.32.56:166][133]LogSavePackage: Moving output files for package: /Game/Untitled
+[2026.01.19-17.32.56:167][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/UntitledAB3C757D43F0E89EC09F548DA6A3CF00.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/Untitled.umap'
+[2026.01.19-17.32.56:198][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.19-17.32.56:259][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.01.19-17.32.56:287][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.19-17.32.56:318][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.01.19-17.32.56:319][133]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Untitled_HLOD0_Instancing] ([1] browsable assets)...
+[2026.01.19-17.32.56:319][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Untitled_HLOD0_Instancing]
+[2026.01.19-17.32.56:319][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_HLOD0_Instancing" FILE="../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/Untitled_HLOD0_Instancing.uasset" SILENT=true
+[2026.01.19-17.32.56:321][133]LogSavePackage: Moving output files for package: /Game/Untitled_HLOD0_Instancing
+[2026.01.19-17.32.56:322][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/Untitled_HLOD0_Instancing6B302334457C1C208B7E9AA7A54DC7F5.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/Untitled_HLOD0_Instancing.uasset'
+[2026.01.19-17.32.56:327][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF
+[2026.01.19-17.32.56:327][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/0LAVFHBFPQHWQIE58DO5WF7E71F35B49B300DBD87CF6B0A5B4804D.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF.uasset'
+[2026.01.19-17.32.56:331][133]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/4/HU/B285Y38RMUAD5X0BOB317C
+[2026.01.19-17.32.56:331][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/B285Y38RMUAD5X0BOB317CF98409E94AB9CC6B837D17B011B6CA91.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalObjects__/Untitled/4/HU/B285Y38RMUAD5X0BOB317C.uasset'
+[2026.01.19-17.32.56:335][133]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/B/8X/IY4PEMN9UZYDE7BEBHFW5H
+[2026.01.19-17.32.56:335][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/IY4PEMN9UZYDE7BEBHFW5H5F84460C4A466224049F2EB392F2C376.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalObjects__/Untitled/B/8X/IY4PEMN9UZYDE7BEBHFW5H.uasset'
+[2026.01.19-17.32.56:338][133]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/1/A5/R3LGPWB6PMS7IVCUS30K59
+[2026.01.19-17.32.56:338][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/R3LGPWB6PMS7IVCUS30K598E39325D45DCCA46AD65BD836B935E79.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalObjects__/Untitled/1/A5/R3LGPWB6PMS7IVCUS30K59.uasset'
+[2026.01.19-17.32.56:343][133]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/8/MK/U2AR470CV8I49WKHE35892
+[2026.01.19-17.32.56:343][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/U2AR470CV8I49WKHE35892B37CE45A430BDE831B015D9DAD6A7F2F.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalObjects__/Untitled/8/MK/U2AR470CV8I49WKHE35892.uasset'
+[2026.01.19-17.32.56:347][133]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/8/WO/VW6BB6ON1O5P9P6D4TNIKG
+[2026.01.19-17.32.56:348][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/VW6BB6ON1O5P9P6D4TNIKG1E11399940AB813749F85DA6C1234325.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalObjects__/Untitled/8/WO/VW6BB6ON1O5P9P6D4TNIKG.uasset'
+[2026.01.19-17.32.56:354][133]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Untitled/A/3B/C169NY21IYHWNPNC5K8H2X
+[2026.01.19-17.32.56:354][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/C169NY21IYHWNPNC5K8H2X3875890044104A0D4717DD85B7F452CE.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalObjects__/Untitled/A/3B/C169NY21IYHWNPNC5K8H2X.uasset'
+[2026.01.19-17.32.56:403][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86
+[2026.01.19-17.32.56:404][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/2KM5RW3RB8MQTC5Z5QAP86B0A9067240C521FCEEAFF59C25A5DE85.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86.uasset'
+[2026.01.19-17.32.56:409][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/U3/F9ZCV1ZQZIEFW41ASA7N1E
+[2026.01.19-17.32.56:409][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/F9ZCV1ZQZIEFW41ASA7N1E8133CC92423C364F7DC217930130C18D.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/U3/F9ZCV1ZQZIEFW41ASA7N1E.uasset'
+[2026.01.19-17.32.56:414][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/JL/ZK9VQR5UXVP37810TVO5YO
+[2026.01.19-17.32.56:414][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/ZK9VQR5UXVP37810TVO5YO2030FDA44499A840028B62AC72697E3B.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/JL/ZK9VQR5UXVP37810TVO5YO.uasset'
+[2026.01.19-17.32.56:419][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/L8/Y18E0V91UKJME7Q2OB3P5K
+[2026.01.19-17.32.56:419][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/Y18E0V91UKJME7Q2OB3P5K546F256E49F0BB881FFEE5B16C57BE8F.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/7/L8/Y18E0V91UKJME7Q2OB3P5K.uasset'
+[2026.01.19-17.32.56:425][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/C1/HS6V3BNZ7H6AKPXHPEX1M7
+[2026.01.19-17.32.56:425][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/HS6V3BNZ7H6AKPXHPEX1M760526323454ACCB0600154B9CAF90D51.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/C1/HS6V3BNZ7H6AKPXHPEX1M7.uasset'
+[2026.01.19-17.32.56:430][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/YK/K6UPO231BY2JGT7QL36BEO
+[2026.01.19-17.32.56:430][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/K6UPO231BY2JGT7QL36BEO78EE8A384520CC3B79B0CD95D3AB7B79.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/0/YK/K6UPO231BY2JGT7QL36BEO.uasset'
+[2026.01.19-17.32.56:434][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/7X/0GCTIMNEBVF8AOXPOXOJMW
+[2026.01.19-17.32.56:434][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/0GCTIMNEBVF8AOXPOXOJMW54C8DD6D44BAE2E2815A54BB25764FD1.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/E/7X/0GCTIMNEBVF8AOXPOXOJMW.uasset'
+[2026.01.19-17.33.06:283][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/0C/B2JMGSH9XFZI7GT8M36JMF
+[2026.01.19-17.33.06:283][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/B2JMGSH9XFZI7GT8M36JMF9455DEB4493DE8B982D0BC993A1EAD69.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/3/0C/B2JMGSH9XFZI7GT8M36JMF.uasset'
+[2026.01.19-17.33.06:288][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/FV/1KGJYU8K12XHN6XNLSYMBQ
+[2026.01.19-17.33.06:288][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/1KGJYU8K12XHN6XNLSYMBQF7025D1C4AA7AFE8C9E543AE6668E56F.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/FV/1KGJYU8K12XHN6XNLSYMBQ.uasset'
+[2026.01.19-17.33.06:325][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/SW/W8795T2GDG12XXM5U16N9I
+[2026.01.19-17.33.06:325][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/W8795T2GDG12XXM5U16N9I8E1AFE394529BAD7ECD4D5B53DAA5089.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/SW/W8795T2GDG12XXM5U16N9I.uasset'
+[2026.01.19-17.33.06:349][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/6P/TZTEGS7BV2V5AXK97N4747
+[2026.01.19-17.33.06:351][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/TZTEGS7BV2V5AXK97N4747355A324349314FF2A0CF30AD8D2BF03D.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/5/6P/TZTEGS7BV2V5AXK97N4747.uasset'
+[2026.01.19-17.33.06:377][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/39/H32T5U1Q8KNHDYD5J4ES73
+[2026.01.19-17.33.06:377][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/H32T5U1Q8KNHDYD5J4ES7348CCDC7A4A9BF91715370B91C4D8035F.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/39/H32T5U1Q8KNHDYD5J4ES73.uasset'
+[2026.01.19-17.33.06:405][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/KE/OIGRKUBFQ7K03JW0AYCTV5
+[2026.01.19-17.33.06:405][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/OIGRKUBFQ7K03JW0AYCTV5D97BD3254A2B2969453AA99EF5CFC391.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/6/KE/OIGRKUBFQ7K03JW0AYCTV5.uasset'
+[2026.01.19-17.33.06:437][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/88/91A6XDDNFM52BRAOQB9C7N
+[2026.01.19-17.33.06:437][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/91A6XDDNFM52BRAOQB9C7N59BA6A2648C3704653B09B96B5E150C7.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/88/91A6XDDNFM52BRAOQB9C7N.uasset'
+[2026.01.19-17.33.06:466][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/IV/F2UCV3PMQVPC9OA6Y0XXG3
+[2026.01.19-17.33.06:466][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/F2UCV3PMQVPC9OA6Y0XXG33EED9CFD4F7D07936DC3F48EA14D4A26.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/A/IV/F2UCV3PMQVPC9OA6Y0XXG3.uasset'
+[2026.01.19-17.33.06:496][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/03/C9M91X2IU3VSISEPAAR2J6
+[2026.01.19-17.33.06:496][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/C9M91X2IU3VSISEPAAR2J6A7163648474708EBC9EA91BFCC74124F.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/3/03/C9M91X2IU3VSISEPAAR2J6.uasset'
+[2026.01.19-17.33.06:528][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/3B/TMAFS2SESKUD4KOAG2NJ49
+[2026.01.19-17.33.06:528][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/TMAFS2SESKUD4KOAG2NJ49A5EF4CC04499C97BB383A7A0AF7D0786.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/B/3B/TMAFS2SESKUD4KOAG2NJ49.uasset'
+[2026.01.19-17.33.06:556][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/YO/RTR8JDENQERG3GOYNFL652
+[2026.01.19-17.33.06:556][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/RTR8JDENQERG3GOYNFL6520BD4EEB74A496F880AA4CB9D6498A2B4.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/5/YO/RTR8JDENQERG3GOYNFL652.uasset'
+[2026.01.19-17.33.06:582][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/IV/H0MMTUZ996JY5Z931CM553
+[2026.01.19-17.33.06:582][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/H0MMTUZ996JY5Z931CM55335A636344DBA85E5B0C3B699EB7CBC3A.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/8/IV/H0MMTUZ996JY5Z931CM553.uasset'
+[2026.01.19-17.33.06:621][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/8Y/SDDUZVFBIE0MB1SKJOTUE0
+[2026.01.19-17.33.06:621][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/SDDUZVFBIE0MB1SKJOTUE0B2020ED547C01CE7B26632AD73A03A64.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/0/8Y/SDDUZVFBIE0MB1SKJOTUE0.uasset'
+[2026.01.19-17.33.06:654][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/GQ/Z1GJ8KGAV56S5I7H40160C
+[2026.01.19-17.33.06:654][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/Z1GJ8KGAV56S5I7H40160C06D1970243E58B555673638A9AE3C5D5.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/A/GQ/Z1GJ8KGAV56S5I7H40160C.uasset'
+[2026.01.19-17.33.06:686][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/DG/S0UKF9OUZ4ZHKU3LHS4676
+[2026.01.19-17.33.06:686][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/S0UKF9OUZ4ZHKU3LHS46762F71F48E478C5DF61A1812B69127C0C1.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/4/DG/S0UKF9OUZ4ZHKU3LHS4676.uasset'
+[2026.01.19-17.33.06:715][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/TV/GKOPEC6UIIHJ9LBXKLD7UM
+[2026.01.19-17.33.06:715][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/GKOPEC6UIIHJ9LBXKLD7UMDE20C6CB42D6E7921853EFA67A9B11C8.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/4/TV/GKOPEC6UIIHJ9LBXKLD7UM.uasset'
+[2026.01.19-17.33.06:745][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/5C/V2OCRSLOSFHUS6S9LPDM10
+[2026.01.19-17.33.06:745][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/V2OCRSLOSFHUS6S9LPDM105271B86243270070B46E3A8A11457BA1.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/3/5C/V2OCRSLOSFHUS6S9LPDM10.uasset'
+[2026.01.19-17.33.06:775][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/AL/EUPIOBVK6UMCF23HOCCEU3
+[2026.01.19-17.33.06:775][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/EUPIOBVK6UMCF23HOCCEU3DD4039EA485A739D2C663AB15071345E.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/6/AL/EUPIOBVK6UMCF23HOCCEU3.uasset'
+[2026.01.19-17.33.06:807][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/P9/Y5TXGWIE2U6BVSRHM3CBRL
+[2026.01.19-17.33.06:807][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/Y5TXGWIE2U6BVSRHM3CBRLFC370C02402E2BA5718C8AB2800BC316.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/5/P9/Y5TXGWIE2U6BVSRHM3CBRL.uasset'
+[2026.01.19-17.33.06:837][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/NM/BA3WQIS9O921IEUJ5HLEG5
+[2026.01.19-17.33.06:837][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/BA3WQIS9O921IEUJ5HLEG54A34620D477EAEC7BF01B98A85AD4D89.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/NM/BA3WQIS9O921IEUJ5HLEG5.uasset'
+[2026.01.19-17.33.06:868][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/26/ZBUFF8X49WNUB8XW4T6JOF
+[2026.01.19-17.33.06:868][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/ZBUFF8X49WNUB8XW4T6JOF771158FE4821D3554B9A7F82A67B2189.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/C/26/ZBUFF8X49WNUB8XW4T6JOF.uasset'
+[2026.01.19-17.33.06:901][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/PT/I1CXE7YA8N7EOIF6S2LUNU
+[2026.01.19-17.33.06:901][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/I1CXE7YA8N7EOIF6S2LUNU889575254B96150166697197247AA94C.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/5/PT/I1CXE7YA8N7EOIF6S2LUNU.uasset'
+[2026.01.19-17.33.06:930][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/8L/3CODS11OI75V0WX0JS91GF
+[2026.01.19-17.33.06:930][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/3CODS11OI75V0WX0JS91GF6E65BDB8499FE3EA239D76A4256196E9.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/C/8L/3CODS11OI75V0WX0JS91GF.uasset'
+[2026.01.19-17.33.06:959][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/2F/4YJUFZ5EQ0DYYJ7YPLLALQ
+[2026.01.19-17.33.06:959][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/4YJUFZ5EQ0DYYJ7YPLLALQ3A76A6DC4B4D840FAC7DF78D5602B6A0.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/6/2F/4YJUFZ5EQ0DYYJ7YPLLALQ.uasset'
+[2026.01.19-17.33.06:997][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/78/NR4DRMJJN85GU6E9FTRA0C
+[2026.01.19-17.33.06:997][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/NR4DRMJJN85GU6E9FTRA0C5F2C31E24B84F89CC4DD8A8CF52E9754.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/6/78/NR4DRMJJN85GU6E9FTRA0C.uasset'
+[2026.01.19-17.33.07:030][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/1Y/LOC77QZ3MD1ZFKG90D5EP3
+[2026.01.19-17.33.07:030][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/LOC77QZ3MD1ZFKG90D5EP3F714D5944A54D9B79C49A9ACF5A4DA99.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/1Y/LOC77QZ3MD1ZFKG90D5EP3.uasset'
+[2026.01.19-17.33.07:062][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/BA/QUO0AEFJ38VWG80ZC1OF80
+[2026.01.19-17.33.07:063][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/QUO0AEFJ38VWG80ZC1OF80B1B001244441E7434F0FDB9F3FEF3FCA.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/BA/QUO0AEFJ38VWG80ZC1OF80.uasset'
+[2026.01.19-17.33.07:094][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/1R/M0B50OLRXLIM0AHT0NV3LE
+[2026.01.19-17.33.07:094][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/M0B50OLRXLIM0AHT0NV3LE6A31ACF44C9F7E9AD55769B04B87923D.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/1R/M0B50OLRXLIM0AHT0NV3LE.uasset'
+[2026.01.19-17.33.07:126][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/UL/FCX003UHDFE1XFF1UYEKB8
+[2026.01.19-17.33.07:126][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/FCX003UHDFE1XFF1UYEKB88024F62F421BDF39464A20B368D69D49.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/C/UL/FCX003UHDFE1XFF1UYEKB8.uasset'
+[2026.01.19-17.33.07:159][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/JP/PRDWJX5HHWIFD0T7RJ6OUB
+[2026.01.19-17.33.07:159][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/PRDWJX5HHWIFD0T7RJ6OUBB06A901E4707D4235092099473AD3C7A.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/B/JP/PRDWJX5HHWIFD0T7RJ6OUB.uasset'
+[2026.01.19-17.33.07:189][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/KM/6LU1RLRCO82PA3M8IZWHFG
+[2026.01.19-17.33.07:189][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/6LU1RLRCO82PA3M8IZWHFG3D52F76A41D6C70611C958ADFE9632E7.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/E/KM/6LU1RLRCO82PA3M8IZWHFG.uasset'
+[2026.01.19-17.33.07:219][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/3W/Q0EVUK3U5XPDZDNHKTBSLP
+[2026.01.19-17.33.07:219][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/Q0EVUK3U5XPDZDNHKTBSLP144710CB4E2899A32803758F68E935A7.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/3/3W/Q0EVUK3U5XPDZDNHKTBSLP.uasset'
+[2026.01.19-17.33.07:252][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/F1/MDBU119X329MP1N6H3D543
+[2026.01.19-17.33.07:252][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/MDBU119X329MP1N6H3D543F50C74C847B0F8B105BFAABF2C729806.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/E/F1/MDBU119X329MP1N6H3D543.uasset'
+[2026.01.19-17.33.07:282][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/78/J445VYKJUTLNEBUTN5JFSX
+[2026.01.19-17.33.07:283][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/J445VYKJUTLNEBUTN5JFSX2DB314DD417D8EF5423E6F989CD4DDB5.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/8/78/J445VYKJUTLNEBUTN5JFSX.uasset'
+[2026.01.19-17.33.07:317][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/BQ/9DT5QPLF7KD6YB8VPR7LE1
+[2026.01.19-17.33.07:317][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/9DT5QPLF7KD6YB8VPR7LE1CF955CA34D58AE56054CB894DD9E6FA0.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/9/BQ/9DT5QPLF7KD6YB8VPR7LE1.uasset'
+[2026.01.19-17.33.07:350][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/MU/LNHD27GINT2578B3TZYQRM
+[2026.01.19-17.33.07:350][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/LNHD27GINT2578B3TZYQRMF9607BA348B9ED2A772097B19A38340A.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/E/MU/LNHD27GINT2578B3TZYQRM.uasset'
+[2026.01.19-17.33.07:379][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/XC/PTON9ZHKVA2YYM6OQVKGB2
+[2026.01.19-17.33.07:379][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/PTON9ZHKVA2YYM6OQVKGB290C4F8C344453D5FDC770696589A13F1.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/5/XC/PTON9ZHKVA2YYM6OQVKGB2.uasset'
+[2026.01.19-17.33.07:413][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/2A/3SH27DERCHJSHZDQM19U56
+[2026.01.19-17.33.07:413][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/3SH27DERCHJSHZDQM19U568FA11C5D429A29DCEF2064A05E732C76.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/7/2A/3SH27DERCHJSHZDQM19U56.uasset'
+[2026.01.19-17.33.07:444][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/FS/YFTU31AIP02GLV9QYB3OAQ
+[2026.01.19-17.33.07:444][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/YFTU31AIP02GLV9QYB3OAQ66AE04274EC233CC2EFF079BCFC2A598.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/2/FS/YFTU31AIP02GLV9QYB3OAQ.uasset'
+[2026.01.19-17.33.07:476][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/SV/A9DJ5UP9TCM1HX8LNL9YMB
+[2026.01.19-17.33.07:476][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/A9DJ5UP9TCM1HX8LNL9YMB2533365C4D61D7CB06953BAD027172D3.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/3/SV/A9DJ5UP9TCM1HX8LNL9YMB.uasset'
+[2026.01.19-17.33.07:509][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/YI/ZJ11KYNNPW461PLOWQD26D
+[2026.01.19-17.33.07:509][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/ZJ11KYNNPW461PLOWQD26D5E6D44AB4421BC7EA80C80A8DC3FE772.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/5/YI/ZJ11KYNNPW461PLOWQD26D.uasset'
+[2026.01.19-17.33.07:540][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/KG/P4FT47HC1MCSOGH2WSE38M
+[2026.01.19-17.33.07:541][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/P4FT47HC1MCSOGH2WSE38MCB9FAA1448C735E851C2BB8967A23420.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/8/KG/P4FT47HC1MCSOGH2WSE38M.uasset'
+[2026.01.19-17.33.07:571][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/UU/T0ZQNCIJWLLSMBV45U9UNS
+[2026.01.19-17.33.07:572][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/T0ZQNCIJWLLSMBV45U9UNSD3A346B6440C4D753A6455A1A50C7B56.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/7/UU/T0ZQNCIJWLLSMBV45U9UNS.uasset'
+[2026.01.19-17.33.07:599][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/19/N0FO3VW9PMSIQGODLR8OHK
+[2026.01.19-17.33.07:600][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/N0FO3VW9PMSIQGODLR8OHK734DD51840405F0C491803B188902879.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/B/19/N0FO3VW9PMSIQGODLR8OHK.uasset'
+[2026.01.19-17.33.07:632][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/X9/T0P80E587PN0FI1P1SY900
+[2026.01.19-17.33.07:632][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/T0P80E587PN0FI1P1SY9007CF167254AA2744E6D2349BB25CD3299.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/X9/T0P80E587PN0FI1P1SY900.uasset'
+[2026.01.19-17.33.07:664][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/KO/HBTFQ946P5JEK2VINSXFF6
+[2026.01.19-17.33.07:664][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/HBTFQ946P5JEK2VINSXFF6B987496C4BD85C7CD460D1A6710D9AC0.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/7/KO/HBTFQ946P5JEK2VINSXFF6.uasset'
+[2026.01.19-17.33.07:702][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/ZR/BS9RFRC48BZCNCJGUFIL41
+[2026.01.19-17.33.07:702][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/BS9RFRC48BZCNCJGUFIL414DCB680244D4B30E4A5AF093D1E1BD61.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/ZR/BS9RFRC48BZCNCJGUFIL41.uasset'
+[2026.01.19-17.33.07:735][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/SI/X9FK3ZHPHSO5EQPDKGIUR6
+[2026.01.19-17.33.07:735][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/X9FK3ZHPHSO5EQPDKGIUR6117DDEBC421ED95906249A91E8218AD7.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/8/SI/X9FK3ZHPHSO5EQPDKGIUR6.uasset'
+[2026.01.19-17.33.07:767][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/AP/1KJ2KRD4PP3Z0SLYN7WFIE
+[2026.01.19-17.33.07:767][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/1KJ2KRD4PP3Z0SLYN7WFIE47CD829A40A74EB7DDE1299528F3F8A4.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/3/AP/1KJ2KRD4PP3Z0SLYN7WFIE.uasset'
+[2026.01.19-17.33.07:797][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/TD/9EBCA33K4RSQN59I5SZIQH
+[2026.01.19-17.33.07:797][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/9EBCA33K4RSQN59I5SZIQHCCCDF67547769F53518052839C434A50.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/2/TD/9EBCA33K4RSQN59I5SZIQH.uasset'
+[2026.01.19-17.33.07:826][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/AY/1YG3IP1RLO5CDOBVQ0W0RA
+[2026.01.19-17.33.07:827][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/1YG3IP1RLO5CDOBVQ0W0RA4F0FC2224C7E9D9D72604CA64809199B.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/AY/1YG3IP1RLO5CDOBVQ0W0RA.uasset'
+[2026.01.19-17.33.07:861][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/PU/4DA3AUPUZMAQWTIQT205ZY
+[2026.01.19-17.33.07:861][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/4DA3AUPUZMAQWTIQT205ZY8AD429F64A3F571F35287BBAF1455BAB.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/PU/4DA3AUPUZMAQWTIQT205ZY.uasset'
+[2026.01.19-17.33.07:896][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/WJ/7L5OB0P2MOJN0JVT0IO388
+[2026.01.19-17.33.07:897][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/7L5OB0P2MOJN0JVT0IO38848E348EE4CEFFF7EEA591E8B56ACA40F.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/WJ/7L5OB0P2MOJN0JVT0IO388.uasset'
+[2026.01.19-17.33.07:925][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/Y5/82VFC1UWWA110XOOEJ158E
+[2026.01.19-17.33.07:925][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/82VFC1UWWA110XOOEJ158ECE74527748A98C9F8F94A2ACD0D5A115.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/9/Y5/82VFC1UWWA110XOOEJ158E.uasset'
+[2026.01.19-17.33.07:954][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/YZ/YX06X250S5OVC9ACDIZ2EJ
+[2026.01.19-17.33.07:954][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/YX06X250S5OVC9ACDIZ2EJ7C69EC414839B200F0B0DD9363576077.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/A/YZ/YX06X250S5OVC9ACDIZ2EJ.uasset'
+[2026.01.19-17.33.07:987][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/BE/ZFTWYVA2AW3K7IZGVNFI9L
+[2026.01.19-17.33.07:987][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/ZFTWYVA2AW3K7IZGVNFI9LCE7E684745034E0274D0CF88B5F0CECD.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/9/BE/ZFTWYVA2AW3K7IZGVNFI9L.uasset'
+[2026.01.19-17.33.08:024][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/FB/UZK8LGMDWLF7LHM5AQVVMX
+[2026.01.19-17.33.08:024][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/UZK8LGMDWLF7LHM5AQVVMX9F158A574904919240042BB613BE9EEC.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/FB/UZK8LGMDWLF7LHM5AQVVMX.uasset'
+[2026.01.19-17.33.08:051][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/AG/KECGBPL7YSM95LL88MMB8I
+[2026.01.19-17.33.08:051][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/KECGBPL7YSM95LL88MMB8IEE2EC8654CFF7DE15A344BA43DA0E77B.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/A/AG/KECGBPL7YSM95LL88MMB8I.uasset'
+[2026.01.19-17.33.08:081][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/AX/XID5TZXXMZIHV596JMGTU7
+[2026.01.19-17.33.08:081][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/XID5TZXXMZIHV596JMGTU7FDD0485C49F3EC1DE637FCA84BFECEA3.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/3/AX/XID5TZXXMZIHV596JMGTU7.uasset'
+[2026.01.19-17.33.08:110][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/E8/7OERKV5DBN9AKH9OGFA22L
+[2026.01.19-17.33.08:110][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/7OERKV5DBN9AKH9OGFA22LBAA364B24F423AC2D736F7AA3601349A.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/E8/7OERKV5DBN9AKH9OGFA22L.uasset'
+[2026.01.19-17.33.08:140][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/RC/KUGNOG85HLKEE7Q39VX85T
+[2026.01.19-17.33.08:140][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/KUGNOG85HLKEE7Q39VX85TAC2248844746C5B3B3FD5F9142E44074.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/8/RC/KUGNOG85HLKEE7Q39VX85T.uasset'
+[2026.01.19-17.33.08:174][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/WU/6N24LSH1JBQH6WL2ATPWE1
+[2026.01.19-17.33.08:174][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/6N24LSH1JBQH6WL2ATPWE169C778BA4856777ADBD85CA18A9CF915.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/6/WU/6N24LSH1JBQH6WL2ATPWE1.uasset'
+[2026.01.19-17.33.08:207][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/K0/21YIO1N87PSV94GJ48ZOX7
+[2026.01.19-17.33.08:207][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/21YIO1N87PSV94GJ48ZOX7A50C26284A6A83F5DAAAD993969BCEDF.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/9/K0/21YIO1N87PSV94GJ48ZOX7.uasset'
+[2026.01.19-17.33.08:237][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/DW/8L46K1WD89YDHPA4PA1YQO
+[2026.01.19-17.33.08:238][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/8L46K1WD89YDHPA4PA1YQOE4B23059416B89D54D24049F9E4D1BD4.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/A/DW/8L46K1WD89YDHPA4PA1YQO.uasset'
+[2026.01.19-17.33.08:272][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/LO/2L34HDZPM4CJROKPRLKZ5E
+[2026.01.19-17.33.08:274][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/2L34HDZPM4CJROKPRLKZ5E102291274E474894E44EA2A1A49F793E.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/3/LO/2L34HDZPM4CJROKPRLKZ5E.uasset'
+[2026.01.19-17.33.08:311][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/44/XDORVWH31K9O5U948J6UPN
+[2026.01.19-17.33.08:311][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/XDORVWH31K9O5U948J6UPN229B0189408F17BE06F2E5997CF78F88.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/9/44/XDORVWH31K9O5U948J6UPN.uasset'
+[2026.01.19-17.33.08:327][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/9L/EOQQBNIX06TRZ5JKHNXS6H
+[2026.01.19-17.33.08:327][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/EOQQBNIX06TRZ5JKHNXS6H1649FD4D463042CDCA31BC9ECCBD7000.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/2/9L/EOQQBNIX06TRZ5JKHNXS6H.uasset'
+[2026.01.19-17.33.08:338][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/VH/UKHYJQL74V2MP5LKZYHH11
+[2026.01.19-17.33.08:338][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/UKHYJQL74V2MP5LKZYHH1117732FCA466949F532E697B4446C2301.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/7/VH/UKHYJQL74V2MP5LKZYHH11.uasset'
+[2026.01.19-17.33.08:351][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/UM/B5BRDG8V1RJL3TWM4HR0OJ
+[2026.01.19-17.33.08:351][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/B5BRDG8V1RJL3TWM4HR0OJB01846164625C0AF95634C8655C1225A.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/4/UM/B5BRDG8V1RJL3TWM4HR0OJ.uasset'
+[2026.01.19-17.33.08:363][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/VA/5H66W3HWF2PTGWEWXIG0XI
+[2026.01.19-17.33.08:363][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/5H66W3HWF2PTGWEWXIG0XI11EEB53C4C5C01A4F39D86991358B562.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/C/VA/5H66W3HWF2PTGWEWXIG0XI.uasset'
+[2026.01.19-17.33.08:375][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/HE/6XMYFGC6A8NS1PR1SOBI7D
+[2026.01.19-17.33.08:375][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/6XMYFGC6A8NS1PR1SOBI7D6E596C4B4933B3482FC696AF6E33B7AE.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/B/HE/6XMYFGC6A8NS1PR1SOBI7D.uasset'
+[2026.01.19-17.33.08:387][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/JZ/TVNAEBT2XB4FBCJVHSWPJG
+[2026.01.19-17.33.08:387][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/TVNAEBT2XB4FBCJVHSWPJG3092C9584639A145CB443590A274A1AF.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/JZ/TVNAEBT2XB4FBCJVHSWPJG.uasset'
+[2026.01.19-17.33.08:399][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/4O/6JQEC7C7J07T44BN9XRKKB
+[2026.01.19-17.33.08:399][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/6JQEC7C7J07T44BN9XRKKB26F8330C4A91F8B4433656A71DB633C2.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/8/4O/6JQEC7C7J07T44BN9XRKKB.uasset'
+[2026.01.19-17.33.08:413][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/TZ/H7X8SJH9IRNM65SZGY3GOB
+[2026.01.19-17.33.08:413][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/H7X8SJH9IRNM65SZGY3GOBA3D5E6FB434A3E9AB368F28C4D6B9928.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/A/TZ/H7X8SJH9IRNM65SZGY3GOB.uasset'
+[2026.01.19-17.33.08:426][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/YA/AK1XLDR5V9IUUYHS9LT826
+[2026.01.19-17.33.08:426][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/AK1XLDR5V9IUUYHS9LT82621040B0F43902BD3762ED8AAC9871404.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/A/YA/AK1XLDR5V9IUUYHS9LT826.uasset'
+[2026.01.19-17.33.08:439][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/1Y/5H7RHZCAR91A9DL66DYQZ1
+[2026.01.19-17.33.08:439][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/5H7RHZCAR91A9DL66DYQZ1475612D84023C4F05667059F816F0A65.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/C/1Y/5H7RHZCAR91A9DL66DYQZ1.uasset'
+[2026.01.19-17.33.08:453][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/S4/QQGZ7DAJCRY5GXHVDJWZ63
+[2026.01.19-17.33.08:453][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/QQGZ7DAJCRY5GXHVDJWZ630110C4BF429EDCA9B7D06E8DA3BBABA0.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/4/S4/QQGZ7DAJCRY5GXHVDJWZ63.uasset'
+[2026.01.19-17.33.08:465][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/BC/U8A7EELOY8P7KI64DKFYDH
+[2026.01.19-17.33.08:465][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/U8A7EELOY8P7KI64DKFYDH0EFD7DD940E0CA8718BDEFA4F3E66A17.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/0/BC/U8A7EELOY8P7KI64DKFYDH.uasset'
+[2026.01.19-17.33.08:478][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/R8/U69SAKGZ8JYPM3OB6EX0QD
+[2026.01.19-17.33.08:478][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/U69SAKGZ8JYPM3OB6EX0QD32C925F24A2F8E1452A885AF2DD4F842.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/C/R8/U69SAKGZ8JYPM3OB6EX0QD.uasset'
+[2026.01.19-17.33.08:489][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/II/4DHYLSBPUFMH473Q8O9S2B
+[2026.01.19-17.33.08:490][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/4DHYLSBPUFMH473Q8O9S2B87409ECA4F862D569ECA718330932F7F.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/A/II/4DHYLSBPUFMH473Q8O9S2B.uasset'
+[2026.01.19-17.33.08:505][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/ZP/X3NZJS0FIHM08ZXW8E8NQU
+[2026.01.19-17.33.08:505][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/X3NZJS0FIHM08ZXW8E8NQU9639D42D4122CB823BED47880A83E8A5.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/ZP/X3NZJS0FIHM08ZXW8E8NQU.uasset'
+[2026.01.19-17.33.08:516][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/4A/ABY732A12WGV65UUF87JLR
+[2026.01.19-17.33.08:516][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/ABY732A12WGV65UUF87JLR360CCAA44B55F2184EC2328E20F50616.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/4A/ABY732A12WGV65UUF87JLR.uasset'
+[2026.01.19-17.33.08:529][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/T6/JZ5OSIKWQ7NAUADHTIMLAW
+[2026.01.19-17.33.08:529][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/JZ5OSIKWQ7NAUADHTIMLAW4AE71081470062909CA678BF770BA821.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/6/T6/JZ5OSIKWQ7NAUADHTIMLAW.uasset'
+[2026.01.19-17.33.08:541][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/A/KQ/2XH64GEWX5DX4PBIMSZNI2
+[2026.01.19-17.33.08:541][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/2XH64GEWX5DX4PBIMSZNI29751F4D44C9237CB041761B5850A57A9.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/A/KQ/2XH64GEWX5DX4PBIMSZNI2.uasset'
+[2026.01.19-17.33.08:553][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/S6/LDLY18TSK27TZFUDPMCEW5
+[2026.01.19-17.33.08:553][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/LDLY18TSK27TZFUDPMCEW5B70223284B76D0978E6B9DBE98C10A38.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/C/S6/LDLY18TSK27TZFUDPMCEW5.uasset'
+[2026.01.19-17.33.08:565][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/4P/W7D96E3DYPPMYMJWHCHJ59
+[2026.01.19-17.33.08:565][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/W7D96E3DYPPMYMJWHCHJ5908652A594563073D08DCA29EC43C0CA5.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/2/4P/W7D96E3DYPPMYMJWHCHJ59.uasset'
+[2026.01.19-17.33.08:576][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/UN/91AWBJM8S09UURPMEJNTUG
+[2026.01.19-17.33.08:576][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/91AWBJM8S09UURPMEJNTUG385C307847D324A7305CEA928B63CC66.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/5/UN/91AWBJM8S09UURPMEJNTUG.uasset'
+[2026.01.19-17.33.08:590][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/ZL/BO205AVTF1H51WLJULZKDE
+[2026.01.19-17.33.08:590][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/BO205AVTF1H51WLJULZKDEC4391535400F89780DCC93BB0C1886B3.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/7/ZL/BO205AVTF1H51WLJULZKDE.uasset'
+[2026.01.19-17.33.08:601][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/4P/FVZCFAHYN261SLBGVKYLQ2
+[2026.01.19-17.33.08:601][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/FVZCFAHYN261SLBGVKYLQ27870CBE94464480993B2C28083322289.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/0/4P/FVZCFAHYN261SLBGVKYLQ2.uasset'
+[2026.01.19-17.33.08:613][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/MF/T2KIT9WWA5O7U7KOOMME36
+[2026.01.19-17.33.08:613][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/T2KIT9WWA5O7U7KOOMME36B616D93B4A11754514FFC88CC7239934.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/C/MF/T2KIT9WWA5O7U7KOOMME36.uasset'
+[2026.01.19-17.33.08:625][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/L8/XEWYHE4USPJO8RYIZ048VS
+[2026.01.19-17.33.08:625][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/XEWYHE4USPJO8RYIZ048VS3CDB765445733B28FECBFF92FC7B00A1.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/9/L8/XEWYHE4USPJO8RYIZ048VS.uasset'
+[2026.01.19-17.33.08:636][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/8H/YI6CESF0ABS9YDUZ2U1YG8
+[2026.01.19-17.33.08:636][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/YI6CESF0ABS9YDUZ2U1YG88CF7376047CD50439067698CC67FA19C.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/E/8H/YI6CESF0ABS9YDUZ2U1YG8.uasset'
+[2026.01.19-17.33.08:648][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/WJ/HOOYUZ3RW2QWE5BEYDM11G
+[2026.01.19-17.33.08:648][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/HOOYUZ3RW2QWE5BEYDM11G6733029046D9C3AE5C3B67B13C4C3F74.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/2/WJ/HOOYUZ3RW2QWE5BEYDM11G.uasset'
+[2026.01.19-17.33.08:660][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/GA/EWFQW0H0JLO8BKRI7U64K2
+[2026.01.19-17.33.08:660][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/EWFQW0H0JLO8BKRI7U64K2B4EDD7CE47916BFB5346F683D9808D1B.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/9/GA/EWFQW0H0JLO8BKRI7U64K2.uasset'
+[2026.01.19-17.33.08:671][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/IA/99IPYCIBP4EO70G7NCXO6D
+[2026.01.19-17.33.08:671][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/99IPYCIBP4EO70G7NCXO6D5BBDE470418294D2AB549BB875C7A2D5.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/4/IA/99IPYCIBP4EO70G7NCXO6D.uasset'
+[2026.01.19-17.33.08:683][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/SM/8F2B8YK2YY1FSYJ4CDD1LZ
+[2026.01.19-17.33.08:683][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/8F2B8YK2YY1FSYJ4CDD1LZB1A04B334335FD231FCAA6ACBB7FB5C7.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/7/SM/8F2B8YK2YY1FSYJ4CDD1LZ.uasset'
+[2026.01.19-17.33.08:698][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/6B/A90KN4PDF9BYSQDRPALM93
+[2026.01.19-17.33.08:699][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/A90KN4PDF9BYSQDRPALM9388FCE25C4A0A57DE2FCBAB93C66596E4.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/6B/A90KN4PDF9BYSQDRPALM93.uasset'
+[2026.01.19-17.33.08:711][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/AC/HOVTEE68G7VAJSFOUK370Q
+[2026.01.19-17.33.08:711][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/HOVTEE68G7VAJSFOUK370Q5E04C51C473A12D3CDBDB78CA6CCCF8F.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/0/AC/HOVTEE68G7VAJSFOUK370Q.uasset'
+[2026.01.19-17.33.08:726][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/RS/WMTOUKEV8K3FHUM25G8BWJ
+[2026.01.19-17.33.08:726][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/WMTOUKEV8K3FHUM25G8BWJ76888CAD4E2E1AB6D8497BB352C1DBAA.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/4/RS/WMTOUKEV8K3FHUM25G8BWJ.uasset'
+[2026.01.19-17.33.08:738][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/EI/4QOQXMV1Z7RA8SARUL0Y9E
+[2026.01.19-17.33.08:738][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/4QOQXMV1Z7RA8SARUL0Y9EAC78E4C14E69AB7AAEC5A6B37055AF8F.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/EI/4QOQXMV1Z7RA8SARUL0Y9E.uasset'
+[2026.01.19-17.33.08:750][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/6/UV/743850F9OQFI148N0HVRR0
+[2026.01.19-17.33.08:750][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/743850F9OQFI148N0HVRR08DF690704B2F3ABFB373D2B597EF79A8.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/6/UV/743850F9OQFI148N0HVRR0.uasset'
+[2026.01.19-17.33.08:761][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/JR/96V7FEXIDQ6YRE9WCXTO3L
+[2026.01.19-17.33.08:761][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/96V7FEXIDQ6YRE9WCXTO3L569BF8D94A8272D3CC39F288CC47F2DA.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/0/JR/96V7FEXIDQ6YRE9WCXTO3L.uasset'
+[2026.01.19-17.33.08:775][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/31/YMWLVZUS39SZKKP6EY3D02
+[2026.01.19-17.33.08:775][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/YMWLVZUS39SZKKP6EY3D02D8D847654BAAA4BCE46FBD94DCB6521E.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/31/YMWLVZUS39SZKKP6EY3D02.uasset'
+[2026.01.19-17.33.08:789][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/JV/7908X05DEKYVMHZDGVEVFX
+[2026.01.19-17.33.08:789][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/7908X05DEKYVMHZDGVEVFX3BBD9D0F47F50BB0A52F9C9A15A384D0.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/9/JV/7908X05DEKYVMHZDGVEVFX.uasset'
+[2026.01.19-17.33.08:801][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/B/BT/16KZACDPXTP4Z8S5D4BZ0W
+[2026.01.19-17.33.08:801][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/16KZACDPXTP4Z8S5D4BZ0W871C641A46BED5A134E39DB2E5E230F1.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/B/BT/16KZACDPXTP4Z8S5D4BZ0W.uasset'
+[2026.01.19-17.33.08:813][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/C/X9/8ASSQYJI2TVL4NB03GHN2Y
+[2026.01.19-17.33.08:814][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/8ASSQYJI2TVL4NB03GHN2Y810D196240F7C5E1B9C53EB7FDE9E302.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/C/X9/8ASSQYJI2TVL4NB03GHN2Y.uasset'
+[2026.01.19-17.33.08:826][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/UC/84I1258OPSKDPG5SEL0985
+[2026.01.19-17.33.08:826][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/84I1258OPSKDPG5SEL0985CAD0B107434C406A73DDFE91BDFE4AAF.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/UC/84I1258OPSKDPG5SEL0985.uasset'
+[2026.01.19-17.33.08:839][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/QI/A0ZTV8S9W9Y0PRY5NNQJKU
+[2026.01.19-17.33.08:839][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/A0ZTV8S9W9Y0PRY5NNQJKUD535E6284F6AE884800C84BC679036F0.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/QI/A0ZTV8S9W9Y0PRY5NNQJKU.uasset'
+[2026.01.19-17.33.08:853][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/8Y/PEVY7T6FU8CAR13QMRYRHH
+[2026.01.19-17.33.08:853][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/PEVY7T6FU8CAR13QMRYRHH4BDA9B4C4A3A760647ECA2A883B21D26.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/3/8Y/PEVY7T6FU8CAR13QMRYRHH.uasset'
+[2026.01.19-17.33.08:864][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/PM/UNP76Q21SVMI272RXI3AGK
+[2026.01.19-17.33.08:865][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/UNP76Q21SVMI272RXI3AGK9F4C50224769DD084F4BFB90F69DBA70.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/2/PM/UNP76Q21SVMI272RXI3AGK.uasset'
+[2026.01.19-17.33.08:879][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/ER/5M1849BTWZ388ZXQKPK7AB
+[2026.01.19-17.33.08:879][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/5M1849BTWZ388ZXQKPK7AB68ABB5EF40CFDE32CA86B2924F93A043.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/8/ER/5M1849BTWZ388ZXQKPK7AB.uasset'
+[2026.01.19-17.33.08:891][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/95/8WUYYCMXX15BI3ANA0HQL2
+[2026.01.19-17.33.08:891][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/8WUYYCMXX15BI3ANA0HQL2433990FA4BD43CD4E954989244B18675.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/0/95/8WUYYCMXX15BI3ANA0HQL2.uasset'
+[2026.01.19-17.33.08:907][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/4F/HHY9CLN6GWOEY7MEKH8DDK
+[2026.01.19-17.33.08:907][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/HHY9CLN6GWOEY7MEKH8DDK8B3C664F4B3D9F76558202BAD709DED2.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/4F/HHY9CLN6GWOEY7MEKH8DDK.uasset'
+[2026.01.19-17.33.08:921][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/15/9YKH8L8Z5C0IIMN27KK2VZ
+[2026.01.19-17.33.08:921][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/9YKH8L8Z5C0IIMN27KK2VZ4B556C5B4E77E704CD8EB1BAF32D016F.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/8/15/9YKH8L8Z5C0IIMN27KK2VZ.uasset'
+[2026.01.19-17.33.08:934][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/N3/83YOOR0H2EPQ81F5LWFO38
+[2026.01.19-17.33.08:934][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/83YOOR0H2EPQ81F5LWFO38003ED5724BB4A3D816BDD8B03C9C81C3.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/N3/83YOOR0H2EPQ81F5LWFO38.uasset'
+[2026.01.19-17.33.08:948][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/4/IX/QB4R3CRHV6SQ401B0EBGID
+[2026.01.19-17.33.08:948][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/QB4R3CRHV6SQ401B0EBGID985657604FD41C3223FF1F837D407A35.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/4/IX/QB4R3CRHV6SQ401B0EBGID.uasset'
+[2026.01.19-17.33.08:962][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/KQ/CUA374J9FP9AFFTXJ7T5ZP
+[2026.01.19-17.33.08:962][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/CUA374J9FP9AFFTXJ7T5ZP350CC2CA4464DCC1D427A7AB9A0C64DB.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/9/KQ/CUA374J9FP9AFFTXJ7T5ZP.uasset'
+[2026.01.19-17.33.08:978][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/D/4X/GN0XA8QGIIL4B5QHYDFPY9
+[2026.01.19-17.33.08:978][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/GN0XA8QGIIL4B5QHYDFPY9F28EDE554F3137F83B1288886AAF0327.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/D/4X/GN0XA8QGIIL4B5QHYDFPY9.uasset'
+[2026.01.19-17.33.08:991][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/B5/9L52R62XVE5E9BH06KPJKH
+[2026.01.19-17.33.08:992][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/9L52R62XVE5E9BH06KPJKH3029BA2C4E4FBD1826F191A551084F12.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/2/B5/9L52R62XVE5E9BH06KPJKH.uasset'
+[2026.01.19-17.33.09:005][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/LB/DFA9VVD121ROTY5NBEC13Y
+[2026.01.19-17.33.09:005][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/DFA9VVD121ROTY5NBEC13Y219723224D41195AAB4C0D87CE3F951D.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/3/LB/DFA9VVD121ROTY5NBEC13Y.uasset'
+[2026.01.19-17.33.09:019][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/7/FE/YB3M9P5BEKTAG0L64PFTJ3
+[2026.01.19-17.33.09:019][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/YB3M9P5BEKTAG0L64PFTJ372D7A8624DAB2FF23E9DFEA6231385A5.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/7/FE/YB3M9P5BEKTAG0L64PFTJ3.uasset'
+[2026.01.19-17.33.09:033][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/5/02/IJ8HC1RVA6VSYU9C7T2FX4
+[2026.01.19-17.33.09:033][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/IJ8HC1RVA6VSYU9C7T2FX44EEA93254ED45A7A96B6878834CFCC7B.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/5/02/IJ8HC1RVA6VSYU9C7T2FX4.uasset'
+[2026.01.19-17.33.09:045][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/OF/9WTLWT7YQX2L3Q3TAT0130
+[2026.01.19-17.33.09:045][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/9WTLWT7YQX2L3Q3TAT0130D6F9550945B409C8B204F28DD34E2D56.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/8/OF/9WTLWT7YQX2L3Q3TAT0130.uasset'
+[2026.01.19-17.33.09:058][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/16/BFWQBLV6I27BBRHR1PJOLX
+[2026.01.19-17.33.09:058][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/BFWQBLV6I27BBRHR1PJOLX2E0487484BE15703A394A7A6145E752D.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/16/BFWQBLV6I27BBRHR1PJOLX.uasset'
+[2026.01.19-17.33.09:070][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/MO/TAQEW1E1C82JUFXW9HST5I
+[2026.01.19-17.33.09:070][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/TAQEW1E1C82JUFXW9HST5I772E485D4F5F08B0853C64A73C847777.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/2/MO/TAQEW1E1C82JUFXW9HST5I.uasset'
+[2026.01.19-17.33.09:085][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/3/AK/MAPJMW9NWYWC79NT2QNDDW
+[2026.01.19-17.33.09:085][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/MAPJMW9NWYWC79NT2QNDDW4B448C84425B6FBDB2F762AE65D07F3D.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/3/AK/MAPJMW9NWYWC79NT2QNDDW.uasset'
+[2026.01.19-17.33.09:098][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/9/MA/NHJ192PDCQXCXQ2HQBMY8K
+[2026.01.19-17.33.09:098][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/NHJ192PDCQXCXQ2HQBMY8K9C6D174A41A1CC625187608268056048.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/9/MA/NHJ192PDCQXCXQ2HQBMY8K.uasset'
+[2026.01.19-17.33.09:111][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/GX/L3LD2P7KMUNO4QPHEMBTVD
+[2026.01.19-17.33.09:111][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/L3LD2P7KMUNO4QPHEMBTVDEF9832B946481DB99B5E5ABDB60DB7B0.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/8/GX/L3LD2P7KMUNO4QPHEMBTVD.uasset'
+[2026.01.19-17.33.09:125][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/2/7W/JK8UCU1PU2ABZQP90FEX7I
+[2026.01.19-17.33.09:125][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/JK8UCU1PU2ABZQP90FEX7I3BC33D8D4BA73DB2F05D269F59BDB9C5.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/2/7W/JK8UCU1PU2ABZQP90FEX7I.uasset'
+[2026.01.19-17.33.09:138][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/E/2Y/OJWKRQAOOT0OHBWZTOW73R
+[2026.01.19-17.33.09:138][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/OJWKRQAOOT0OHBWZTOW73RC972419C4A57AB6D59BC9985FA756524.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/E/2Y/OJWKRQAOOT0OHBWZTOW73R.uasset'
+[2026.01.19-17.33.09:144][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/1/IB/0BL56FSQ5A87L6MKO6B48Z
+[2026.01.19-17.33.09:144][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/0BL56FSQ5A87L6MKO6B48Z1705DF4B48FF891E3DEFF3ACC3486148.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/1/IB/0BL56FSQ5A87L6MKO6B48Z.uasset'
+[2026.01.19-17.33.09:168][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/8/33/AVAU0CZKS4G61S8E75EJN4
+[2026.01.19-17.33.09:168][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/AVAU0CZKS4G61S8E75EJN4C4295EC744C801E94BDE71A7FF2A35E3.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/8/33/AVAU0CZKS4G61S8E75EJN4.uasset'
+[2026.01.19-17.33.09:174][133]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Untitled/0/AL/S2UFDWVJMTNEESSSB64EA2
+[2026.01.19-17.33.09:174][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/S2UFDWVJMTNEESSSB64EA26C1486684D984A9B7E4F31A47378B4C0.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/__ExternalActors__/Untitled/0/AL/S2UFDWVJMTNEESSSB64EA2.uasset'
+[2026.01.19-17.33.09:185][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 12.9 sec
+[2026.01.19-17.33.09:210][133]LogFileHelpers: Saving map 'Untitled' took 13.312
+[2026.01.19-17.33.09:211][133]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/snow/bp_geomatry] ([2] browsable assets)...
+[2026.01.19-17.33.09:211][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/snow/bp_geomatry]
+[2026.01.19-17.33.09:211][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/snow/bp_geomatry" FILE="../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/snow/bp_geomatry.uasset" SILENT=true
+[2026.01.19-17.33.09:237][133]LogSavePackage: Moving output files for package: /Game/snow/bp_geomatry
+[2026.01.19-17.33.09:238][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/bp_geomatry0548FF2643F3B76F3322989D4F076B01.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/snow/bp_geomatry.uasset'
+[2026.01.19-17.33.09:239][133]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/snow/materials/snow_fall] ([1] browsable assets)...
+[2026.01.19-17.33.09:240][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/snow/materials/snow_fall]
+[2026.01.19-17.33.09:240][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/snow/materials/snow_fall" FILE="../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/snow/materials/snow_fall.uasset" SILENT=true
+[2026.01.19-17.33.09:370][133]LogSavePackage: Moving output files for package: /Game/snow/materials/snow_fall
+[2026.01.19-17.33.09:370][133]LogSavePackage: Moving '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/snow_fall52C06A0E41FF67475283889C21714087.tmp' to '../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Content/snow/materials/snow_fall.uasset'
+[2026.01.19-17.33.09:382][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 16.4 sec (total: 29.3 sec)
+[2026.01.19-17.33.09:448][133]LogStall: Shutdown...
+[2026.01.19-17.33.09:448][133]LogStall: Shutdown complete.
+[2026.01.19-17.33.09:484][133]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-17.33.09:484][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-17.33.09:542][133]LogSlate: Window 'snow - Unreal Editor' being destroyed
+[2026.01.19-17.33.09:546][133]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.01.19-17.33.09:702][133]LogContentValidation: Display: Starting to validate 151 assets
+[2026.01.19-17.33.09:702][133]LogContentValidation: Enabled validators:
+[2026.01.19-17.33.09:702][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.19-17.33.09:702][133]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.19-17.33.09:702][133]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.19-17.33.09:702][133]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.19-17.33.09:702][133]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.19-17.33.09:702][133]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.19-17.33.09:702][133]AssetCheck: /Game/Untitled Validating asset
+[2026.01.19-17.33.09:702][133]AssetCheck: /Game/Untitled_HLOD0_Instancing Validating asset
+[2026.01.19-17.33.09:703][133]AssetCheck: /Game/snow/bp_geomatry Validating asset
+[2026.01.19-17.33.09:703][133]AssetCheck: /Game/snow/materials/snow_fall Validating asset
+[2026.01.19-17.33.09:748][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.01.19-17.33.09:760][133]Cmd: QUIT_EDITOR
+[2026.01.19-17.33.09:760][133]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.01.19-17.33.09:765][133]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/h021185l/Documents/GitHub/tools/snow/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.19-17.33.09:774][134]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.01.19-17.33.09:775][134]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.01.19-17.33.09:775][134]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.01.19-17.33.09:785][134]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-17.33.09:786][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-17.33.09:786][134]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Untitled.Untitled
+[2026.01.19-17.33.09:797][134]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.01.19-17.33.09:797][134]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.01.19-17.33.09:797][134]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.01.19-17.33.09:801][134]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-17.33.09:801][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-17.33.09:805][134]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.01.19-17.33.09:805][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.19-17.33.09:808][134]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.01.19-17.33.09:808][134]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2026.01.19-17.33.10:309][134]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.01.19-17.33.10:316][134]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.01.19-17.33.10:318][134]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.01.19-17.33.10:318][134]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.01.19-17.33.10:318][134]LogAudio: Display: Audio Device unregistered from world 'Untitled'.
+[2026.01.19-17.33.10:318][134]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.01.19-17.33.10:318][134]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.01.19-17.33.10:320][134]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.01.19-17.33.10:331][134]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.01.19-17.33.10:331][134]LogAudio: Display: Audio Device Manager Shutdown
+[2026.01.19-17.33.10:335][134]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.01.19-17.33.10:337][134]LogExit: Preparing to exit.
+[2026.01.19-17.33.10:379][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.01.19-17.33.10:381][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:381][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:381][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:381][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:381][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:381][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:381][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:381][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:381][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:382][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:382][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:382][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:382][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:382][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:382][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:382][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:382][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:382][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:382][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:382][134]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.10:382][134]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.01.19-17.33.11:192][134]LogEditorDataStorage: Deinitializing
+[2026.01.19-17.33.11:302][134]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.01.19-17.33.11:324][134]LogExit: Editor shut down
+[2026.01.19-17.33.11:328][134]LogExit: Transaction tracking system shut down
+[2026.01.19-17.33.11:453][134]LogExit: Object subsystem successfully closed.
+[2026.01.19-17.33.11:575][134]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.19-17.33.11:715][134]LogMemoryProfiler: Shutdown
+[2026.01.19-17.33.11:715][134]LogNetworkingProfiler: Shutdown
+[2026.01.19-17.33.11:715][134]LoadingProfiler: Shutdown
+[2026.01.19-17.33.11:715][134]LogTimingProfiler: Shutdown
+[2026.01.19-17.33.11:715][134]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.01.19-17.33.11:715][134]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.01.19-17.33.12:012][134]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.01.19-17.33.12:012][134]LogNFORDenoise: NFORDenoise function shutting down
+[2026.01.19-17.33.12:012][134]RenderDocPlugin: plugin has been unloaded.
+[2026.01.19-17.33.12:032][134]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.01.19-17.33.12:032][134]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCB3A854F-4931-EB36-BA9E-09BCDAE9CCB4%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=ff9a0e3b4c40ac4179e2e3a4eff500fe%7Cf4dc6e968fb640a29ca942723d935dde%7Cd5f2ccbf-c541-40cc-82a6-15767a1fbba1&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.01.19-17.33.12:576][134]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.01.19-17.33.12:594][134]LogXGEController: Cleaning working directory: C:/Users/h021185l/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.01.19-17.33.12:599][134]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.01.19-17.33.12:599][134]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.01.19-17.33.12:599][134]LogPakFile: Destroying PakPlatformFile
+[2026.01.19-17.33.13:221][134]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.19-17.33.13:246][134]LogExit: Exiting.
+[2026.01.19-17.33.13:264][134]Log file closed, 01/19/26 17:33:13
